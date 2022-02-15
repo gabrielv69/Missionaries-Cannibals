@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639192981 source:e:\c++\miscan\main.cpp
+	"cabecera.h"
+
+1639193026 e:\c++\miscan\cabecera.h
+	<iostream>
+
